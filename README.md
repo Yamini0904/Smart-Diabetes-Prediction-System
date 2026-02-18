@@ -36,7 +36,11 @@ This project includes modules for **Users, Doctors, and Admin**, plus a chatbot 
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend / API**: Flask (Python)  
 - **Database**: MySQL  
-- **ML / Data Processing**: scikit-learn, pandas, numpy  
+- **ML / Data Processing**: scikit-learn, pandas, numpy
+
+Contributors:
+- Yamini
+- Sathwika
 
 ---
 
